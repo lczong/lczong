@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I'm a senior student majoring in Automation @ Xi'an Jiaotong University.
-🌱 I’m currently working on Acceleration of DNN.
+
+* 🔭 I'm a senior student majoring in Automation @ Xi'an Jiaotong University.
+* 🌱 I’m currently working on Acceleration of DNN.
 
 ## ⚡ Technologies
 
