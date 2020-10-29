@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-city&bg_color=071A2C&text_color=FFFFFF" alt="lczong's top langs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lczong&bg_color=071A2C&text_color=FFFFFF" alt="lczong's top langs"/>
 
 ## 🌎 Find me
