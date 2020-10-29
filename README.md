@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 -->
 
 * 🔭 I'm a senior student majoring in Automation @ Xi'an Jiaotong University.
-* 🌱 I’m currently working on Acceleration of DNN.
+* 🌱 I’m currently working on Acceleration of DNNs.
 
 ## ⚡ Technologies
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-c-blue?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
+![Octave](https://img.shields.io/badge/-Octave-black?style=flat-square&logo=octave)
+![Markdown](https://img.shields.io/badge/-Markdown-blue?style=flat-square&logo=markdown)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
