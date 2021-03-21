@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 * 🔭 I'm a senior student majoring in Automation @ Xi'an Jiaotong University.
-* 🌱 I’m currently working on Acceleration of DNNs.
+* 🌱 I’m currently working on CHENG.
+* **C**: **C**UDA, **C**omputer Vision
+* **H**: **H**eterogeneous Computing
+* **E**: **E**DA, **E**fficient Computing
+* **N**: **N**eural **N**etworks
+* **G**: **G**PU Acceleration
 
 ## ⚡ Technologies
 ![C](https://img.shields.io/badge/-c-blue?style=flat-square&logo=c)
