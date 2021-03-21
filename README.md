@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
 
 * 🔭 I'm a senior student majoring in Automation @ Xi'an Jiaotong University.
-* 🌱 I’m currently working on CHENG.
-* **C**: **C**UDA, **C**omputer Vision
-* **H**: **H**eterogeneous Computing
-* **E**: **E**DA, **E**fficient Computing
-* **N**: **N**eural **N**etworks
-* **G**: **G**PU Acceleration
+* 🌱 I’m currently working on **CHENG**.
+* -**C**-:  **C**UDA, **C**omputer Vision
+* -**H**-:  **H**eterogeneous Computing
+* -**E**-:  **E**DA, **E**fficient Computing
+* -**N**-:  **N**eural **N**etworks
+* -**G**-:  **G**PU Acceleration
 
 ## ⚡ Technologies
-![C](https://img.shields.io/badge/-c-blue?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-CUDA-blue?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c)
+![CUDA]https://img.shields.io/badge/-CUDA-green?style=flat-square&logo=c
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
