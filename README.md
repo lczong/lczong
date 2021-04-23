@@ -47,12 +47,15 @@ Here are some ideas to get you started:
   <code><img width="5%" src="./icons/keras.svg"></code>
   <code><img width="5%" src="./icons/scikit-learn.svg"></code>
   <code><img width="5%" src="./icons/opencv.svg"></code>
-  <code><img width="5%" src="./icons/nvidia.svg"></code>
+
   <code><img width="5%" src="./icons/linux.svg"></code>
   <code><img width="5%" src="./icons/latex.svg"></code>
   <code><img width="5%" src="./icons/markdown.svg"></code>
   <code><img width="5%" src="./icons/git.svg"></code>
   <code><img width="5%" src="./icons/github.svg"></code>
+  <code><img width="5%" src="./icons/jupyter.svg"></code>
+  <code><img width="5%" src="./icons/numpy.svg"></code>
+  <code><img width="5%" src="./icons/nvidia.svg"></code>
   <code><img width="5%" src="./icons/raspberrypi.svg"></code>
 </p>
 
