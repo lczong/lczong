@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 ## 🚩 Github Status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lczong&bg_color=071A2C&text_color=FFFFFF" alt="lczong's top langs"/>
-[![lczong's github stats](https://github-readme-stats.vercel.app/api?username=lczong)](https://github.com/lczong/github-readme-stats)
+
 [![Licheng's github stats](https://github-readme-stats.vercel.app/api?username=lczong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lczong/github-readme-stats)
+
 ## 🌎 Find me
 
