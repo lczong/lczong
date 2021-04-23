@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🔭 I'm a senior student majoring in Automation @ Xi'an Jiaotong University.
+* 🔭 I'm a senior student majoring in Electronics and Information @ Xi'an Jiaotong University.
 * 🌱 I’m currently working on **CHENG**.
-* -**C**-:  **C**UDA, **C**omputer Vision
-* -**H**-:  **H**eterogeneous Computing
-* -**E**-:  **E**DA, **E**fficient Computing
+* -**C**-:  **C**omputational Biology
+* -**H**-:  **H**ealthcare Analytics
+* -**E**-:  **E**fficient Computing
 * -**N**-:  **N**eural **N**etworks
 * -**G**-:  **G**PU Acceleration
 
@@ -36,6 +36,24 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<p>  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+
+## 🚩 Github Status
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lczong&bg_color=071A2C&text_color=FFFFFF" alt="lczong's top langs"/>
+[![lczong's github stats](https://github-readme-stats.vercel.app/api?username=lczong)](https://github.com/lczong/github-readme-stats)
 
 ## 🌎 Find me
+
