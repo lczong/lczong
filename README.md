@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 * -**G**-:  **G**PU Acceleration
 
 ## ⚡ Technologies
+<!--
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c)
 ![CUDA](https://img.shields.io/badge/-CUDA-green?style=flat-square&logo=c)
@@ -35,6 +36,15 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+-->
+<p>  
+  <code><img width="5%" src="./icons/c.svg"></code>
+  <code><img width="5%" src="./icons/cplusplus.svg"></code>
+  <code><img width="5%" src="./icons/python.svg"></code>
+  <code><img width="5%" src="./icons/pytorch.svg"></code>
+  <code><img width="5%" src="./icons/tensorflow.svg"></code>
+  <code><img width="5%" src="./icons/keras.svg"></code>
+</p>
 
 <p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
