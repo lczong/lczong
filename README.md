@@ -90,4 +90,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/lczong/"><img width="5%" src="./icons/github.svg"></a>
 <a href="https://www.linkedin.com/in/lichengzong/"><img width="5%" src="./icons/linkedin.svg"></a>
-<a href="zolich729@gmail.com"><img width="5%" src="./icons/gmail.svg"></a>
+<a href="mailto:zolich729@gmail.com"><img width="5%" src="./icons/gmail.svg"></a>
