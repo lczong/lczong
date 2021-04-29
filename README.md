@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * -**C**-:  **C**omputational Biology
 * -**H**-:  **H**ealthcare Analytics
 * -**E**-:  **E**fficient Computing
-* -**N**-:  **N**eural **N**etworks
+* -**N**-:  **N**atural Language Processing
 * -**G**-:  **G**PU Acceleration
 
 ## ⚡ Technologies
