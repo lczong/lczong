@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <code><img width="5%" src="./icons/nvidia.svg"></code>
   <code><img width="5%" src="./icons/raspberrypi.svg"></code>
 </p>
-
+<!--
 <p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 </p>
-
+-->
 ## 🚩 Github Status
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lczong&bg_color=071A2C&text_color=FFFFFF" alt="lczong's top langs"/>
