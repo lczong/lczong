@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 * 🔭 I'm a senior student majoring in Electronics and Information @ Xi'an Jiaotong University.
 * 🌱 I’m currently working on **CHENG**.
-* -**C**-:  **C**omputational Biology
-* -**H**-:  **H**ealthcare Analytics
-* -**E**-:  **E**fficient Computing
-* -**N**-:  **N**atural Language Processing
-* -**G**-:  **G**PU Acceleration
+* -**C**-:  **C**omputational Methodology in Bioinfo
+* -**H**-:  **H**ealthcare-Related applications of DL
+* -**E**-:  **E**lectronic Health Record Analysis
+* -**N**-:  **N**anopore Sequencing Data Analysis
+* -**G**-:  **G**NN in Drug Discovery
 
 ## ⚡ Technologies
 <!--
@@ -80,6 +80,7 @@ Here are some ideas to get you started:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 </p>
 -->
+
 ## 🚩 Github Status
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lczong&bg_color=071A2C&text_color=FFFFFF" alt="lczong's top langs"/>
