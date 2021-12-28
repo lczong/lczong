@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🔭 I'm a senior student majoring in Electronics and Information @ Xi'an Jiaotong University.
-* 🌱 I’m currently working on **CHENG**.
+* 🔭 I'm a Ph.D. student studying Computer Science and Engineering The Chinese University of Hong Kong (CUHK-CSE).
+* 🌱 I’m currently working on at the intersection between Deep Learning and Bioinformatics, including:
 * -**C**-:  **C**omputational Methodology in Bioinfo
 * -**H**-:  **H**ealthcare-Related applications of DL
 * -**E**-:  **E**lectronic Health Record Analysis
